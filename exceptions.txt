@@ -50,3 +50,7 @@ X0100964012528000
 ;Company of Heroes Collection
 ;1.5_66915 crashes
 0100ABD0156F8000
+
+;Pokémon Mystery Dungeon: Rescue Team DX
+;1.0.2 crash on boot
+01003D200BAA2000
